@@ -273,14 +273,39 @@ The project transforms the workflow from manual data entry to an automated, insi
 
 ---
 
-## 📸 Screenshots
-*(Replace the links below with the actual paths to your images)*
-- [Stock In](link-to-image)
-- [Stock Out](link-to-image)
-- [New Product](link-to-image)
-- [Damaged Returns](link-to-image)
-- [Transaction History](link-to-image)
-- [Products](link-to-image)
+# 📸 Screenshots
+
+## 📊 Dashboard
+
+![Dashboard](screenshots/Dashboard%20.png)
+
+## ➕ Create New Product
+
+![Create New Product](screenshots/create%20new%20produt.png)
+
+## 📦 Products
+
+![Products](screenshots/product.png)
+
+## 📥 Stock In - New Purchase
+
+![Stock In - New Purchase](screenshots/stock%20in%20new%20purchase.png)
+
+## ↩️ Stock In - Good Return
+
+![Stock In - Good Return](screenshots/stock%20in%20good%20return.png)
+
+## 📤 Stock Out
+
+![Stock Out](screenshots/stock%20out.png)
+
+## ❌ Damaged Returns
+
+![Damaged Returns](screenshots/Damaged%20Returns.png)
+
+## 📜 Transaction History
+
+![Transaction History](screenshots/transaction.png)
 
 ---
 
