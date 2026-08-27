@@ -273,6 +273,35 @@ The project transforms the workflow from manual data entry to an automated, insi
 
 ---
 
+## 💻 Selected Code
+
+This repository includes selected parts of the application's core logic for demonstration and portfolio purposes.
+
+The complete application contains **1,900+ lines of Python code** and is not publicly available.
+
+The selected code demonstrates key parts of the system, including:
+
+- Inventory business logic.
+- Stock In / Stock Out operations.
+- New Purchase vs Good Return handling.
+- Damaged Return processing.
+- New Product creation.
+- Stock validation.
+- Transaction structuring.
+- Excel data processing.
+
+The full application implementation remains private.
+
+### 📂 Code Structure
+
+```text
+code/
+├── data_loading.py
+├── inventory_logic.py
+└── transaction_logic.py
+```
+---
+
 # 📸 Screenshots
 
 ## 📊 Dashboard
